@@ -1,10 +1,14 @@
 {
   "name": "navytheme",
-  "displayName": "NavyTheme",
+  "displayName": "Navy Theme",
   "description": "Dark navy theme inspired by the Rust language documentation colors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.70.0"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/orshemtov/navy-theme"
   },
   "categories": [
     "Themes"
@@ -12,11 +16,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "NavyTheme",
+        "label": "Navy Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/NavyTheme-color-theme.json"
       }
     ]
   },
-  "publisher": "orS"
+  "publisher": "orS",
+  "icon": "logo.png"
 }

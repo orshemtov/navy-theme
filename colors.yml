@@ -1,0 +1,9 @@
+colors:
+  DARK_BLUE: "#151924" # Main color
+  PURPLE: "#b394bc" # Keywords
+  OLIVE: "#b6bd68" # Strings
+  BLUE: "#82a2bf" # Functions, methods
+  CYAN: "#8bbeb7" # Operators
+  ORANGE: "#de935f" # Numbers
+  WHITE: "#ffffff" # Classes, constants, variables, properties
+  GREY: "#979896" # Comments
