@@ -4,8 +4,8 @@ Inspired by the Rust language's documentation.
 
 # Rust
 
-![rust](screenshots/rust.png)
+![rust](./assets/rust.png)
 
 # Python
 
-![python](screenshots/python.png)
+![python](./assets/python.png)
