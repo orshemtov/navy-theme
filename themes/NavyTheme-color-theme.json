@@ -46,7 +46,7 @@
 			"name": "punctuation.separator.parameters.python",
 			"scope": "punctuation.separator.period.python,punctuation.separator.element.python,punctuation.parenthesis.begin.python,punctuation.parenthesis.end.python",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -60,7 +60,7 @@
 			"name": "storage.modifier.lifetime.rust",
 			"scope": "storage.modifier.lifetime.rust",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -116,7 +116,7 @@
 			"name": "Text",
 			"scope": "variable.parameter.function",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -165,14 +165,14 @@
 			"name": "c++ block",
 			"scope": "punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
 			"name": "js/ts punctuation separator key-value",
 			"scope": "punctuation.separator.key-value",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 			"name": "java modifier.import",
 			"scope": "punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,meta.method.identifier.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.terminator.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,meta.method-call.java,punctuation.section.class.begin.bracket.curly.java,punctuation.section.class.end.bracket.curly.java,punctuation.section.method.begin.bracket.curly.java,punctuation.section.method.end.bracket.curly.java,punctuation.separator.period.java,punctuation.bracket.angle.java,punctuation.definition.annotation.java,meta.method.body.java",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -301,7 +301,7 @@
 			"name": "css comma",
 			"scope": "punctuation.separator.list.comma.css",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -384,7 +384,7 @@
 			"name": "keyword.operator.misc.rust",
 			"scope": "keyword.operator.misc.rust",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -433,7 +433,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation.separator.delimiter",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -489,7 +489,7 @@
 			"name": "python block",
 			"scope": "punctuation.definition.arguments.begin.python,punctuation.definition.arguments.end.python,punctuation.separator.arguments.python,punctuation.definition.list.begin.python,punctuation.definition.list.end.python",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -510,7 +510,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -552,7 +552,7 @@
 			"name": "Variables",
 			"scope": "variable.c",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -566,7 +566,7 @@
 			"name": "Java Variables",
 			"scope": "token.variable.parameter.java",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"name": "Packages",
 			"scope": "token.package",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -708,14 +708,14 @@
 			"name": "Support type",
 			"scope": "support.type.property-name",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
 			"name": "Support type",
 			"scope": "support.constant.property-value",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -729,7 +729,7 @@
 			"name": "Meta tag",
 			"scope": "meta.tag",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -885,7 +885,7 @@
 			"name": "[VSCODE-CUSTOM] Markdown heading setext",
 			"scope": "markup.heading.setext",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -996,7 +996,7 @@
 			"name": "illegal",
 			"scope": "invalid.illegal.bad-ampersand.html",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -1101,14 +1101,14 @@
 			"name": "style double quoted array index normal begin",
 			"scope": "punctuation.section.array.begin.php",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
 			"name": "style double quoted array index normal end",
 			"scope": "punctuation.section.array.end.php",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -1136,7 +1136,7 @@
 			"name": "php function-resets",
 			"scope": "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -1206,21 +1206,21 @@
 			"name": "parameter function js/ts",
 			"scope": "function.parameter",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
 			"name": "brace function",
 			"scope": "function.brace",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
 			"name": "parameter function ruby cs",
 			"scope": "function.parameter.ruby, function.parameter.cs",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -1269,7 +1269,7 @@
 			"name": "block scope",
 			"scope": "block.scope.end,block.scope.begin",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -1688,7 +1688,7 @@
 				"invalid.xi"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -1782,7 +1782,7 @@
 				" meta.brace.square"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -1804,7 +1804,7 @@
 			"name": "punctuation.definition.block.sequence.item.yaml",
 			"scope": "punctuation.definition.block.sequence.item.yaml",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#abb2bf"
 			}
 		},
 		{
@@ -1845,12 +1845,12 @@
 		}
 	],
 	"colors": {
-		"foreground": "#151924",
+		"foreground": "#cccccc",
 		"focusBorder": "#007fd4",
 		"selection.background": "#256aa7",
 		"scrollbar.shadow": "#000000",
 		"activityBar.foreground": "#ffffff",
-		"activityBar.background": "#333333",
+		"activityBar.background": "#151924",
 		"activityBar.inactiveForeground": "#ffffff66",
 		"activityBarBadge.foreground": "#ffffff",
 		"activityBarBadge.background": "#007acc",
@@ -1860,7 +1860,7 @@
 		"sideBarSectionHeader.foreground": "#cccccc",
 		"sideBarSectionHeader.border": "#cccccc33",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"list.inactiveSelectionBackground": "#37373d",
+		"list.inactiveSelectionBackground": "#FFFFFF10",
 		"list.inactiveSelectionForeground": "#cccccc",
 		"list.hoverBackground": "#2a2d2e",
 		"list.hoverForeground": "#cccccc",
@@ -1912,8 +1912,8 @@
 		"input.placeholderForeground": "#a6a6a6",
 		"textLink.foreground": "#3794ff",
 		"editor.background": "#151924",
-		"editor.foreground": "#d4d4d4",
-		"editorLineNumber.foreground": "#858585",
+		"editor.foreground": "#abb2bf",
+		"editorLineNumber.foreground": "#979896",
 		"editorCursor.foreground": "#aeafad",
 		"editorCursor.background": "#000000",
 		"editor.selectionBackground": "#264f78",
@@ -1934,7 +1934,7 @@
 		"editor.wordHighlightBackground": "#575757b8",
 		"editor.lineHighlightBackground": "#ffffff0A",
 		"editor.lineHighlightBorder": "#282828",
-		"editorLineNumber.activeForeground": "#c6c6c6",
+		"editorLineNumber.activeForeground": "#8bbeb7",
 		"editorLink.activeForeground": "#4e94ce",
 		"editorIndentGuide.background": "#404040",
 		"editorIndentGuide.activeBackground": "#707070",
@@ -1953,7 +1953,7 @@
 		"editorInfo.foreground": "#75beff",
 		"editorInfo.background": "#4490BF00",
 		"editorInfo.border": "#4490BF00",
-		"editorGutter.background": "#1e1e1e",
+		"editorGutter.background": "#151924",
 		"editorGutter.modifiedBackground": "#0c7d9d",
 		"editorGutter.addedBackground": "#587c0c",
 		"editorGutter.deletedBackground": "#94151b",
@@ -1963,8 +1963,8 @@
 		"diffEditor.insertedTextBackground": "#9bb95533",
 		"diffEditor.removedTextBackground": "#ff000033",
 		"diffEditor.border": "#444444",
-		"panel.background": "#151924",
-		"panel.border": "#ffffff50",
+		"panel.background": "#1e1e1e",
+		"panel.border": "#80808059",
 		"panelTitle.activeBorder": "#e7e7e7",
 		"panelTitle.activeForeground": "#e7e7e7",
 		"panelTitle.inactiveForeground": "#e7e7e799",
@@ -1991,7 +1991,7 @@
 		"terminal.ansiRed": "#cd3131",
 		"terminal.ansiWhite": "#e5e5e5",
 		"terminal.ansiYellow": "#e5e510",
-		"breadcrumb.background": "#1e1e1e",
+		"breadcrumb.background": "#171717",
 		"breadcrumb.foreground": "#cccccccc",
 		"breadcrumb.focusForeground": "#e0e0e0",
 		"editorGroupHeader.tabsBackground": "#252526",
@@ -2065,7 +2065,7 @@
 		"peekViewTitle.background": "#1e1e1e",
 		"peekViewTitleDescription.foreground": "#ccccccb3",
 		"peekViewTitleLabel.foreground": "#ffffff",
-		"icon.foreground": "#151924",
+		"icon.foreground": "#cccccc",
 		"checkbox.background": "#3c3c3c",
 		"checkbox.foreground": "#cccccc",
 		"checkbox.border": "#00000000",
@@ -2084,7 +2084,7 @@
 		"editorGroup.emptyBackground": "#151924",
 		"panelSection.border": "#80808059",
 		"statusBarItem.activeBackground": "#FFFFFF25",
-		"settings.headerForeground": "#151924",
+		"settings.headerForeground": "#cccccc",
 		"settings.focusedRowBackground": "#ffffff07",
 		"walkThrough.embeddedEditorBackground": "#00000050",
 		"breadcrumb.activeSelectionForeground": "#e0e0e0",

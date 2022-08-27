@@ -1,0 +1,13 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publish
+        run: echo publish
